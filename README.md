@@ -1,7 +1,9 @@
 # New Site Template
 
-[TODO. There will be project description]
+This is an offline version of [New Site Template](http://getbootstrap.com/examples/jumbotron/) 
+with all satisfacted dependencies. Feel free to use it and make your site without Internet.
 
-# Project Goals
+## Quick start
 
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+Download project and run <code>**index.html**</code>. This is your new site template. Edit this
+for your intentions.
