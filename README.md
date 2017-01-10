@@ -3,7 +3,7 @@
 This is an offline version of [New Site Template](http://getbootstrap.com/examples/jumbotron/) 
 with all satisfacted dependencies. Feel free to use it and make your site without Internet.
 
-## Quick start
+## Get started
 
-Download project and run <code>**index.html**</code>. This is your new site template. Edit this
-for your intentions.
+Download all files and enjoy making your site using **Jumbotron Template for Bootstrap** 
+template offline.
